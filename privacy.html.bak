@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>سياسة الخصوصية - Sweet & Sour</title>
+<style>
+  body{font-family:Arial,Tahoma,sans-serif;max-width:760px;margin:0 auto;padding:20px 16px;line-height:1.8;color:#222}
+  h1{font-size:1.6rem} h2{font-size:1.2rem;margin-top:1.6rem}
+  hr{margin:2.5rem 0;border:0;border-top:1px solid #ccc}
+  .en{direction:ltr;text-align:left}
+</style>
+</head>
+<body>
+
+<h1>سياسة الخصوصية - تطبيق Sweet & Sour</h1>
+<p>آخر تحديث: 22 أكتوبر 2026</p>
+
+<p>تطبيق "Sweet & Sour" (متجر أغذية مجمدة في القاهرة، مصر) يحترم خصوصيتك. توضح هذه الصفحة المعلومات التي نجمعها وكيف نستخدمها.</p>
+
+<h2>1. المعلومات التي نجمعها</h2>
+<p>قد نجمع المعلومات التي تدخلها بنفسك أثناء إتمام طلبك، مثل: الاسم، رقم الهاتف، وعنوان التوصيل، وتفاصيل الطلب. <strong>لا يستخدم التطبيق خدمة تحديد الموقع (GPS)</strong> ولا يجمع موقعك الجغرافي.</p>
+
+<h2>2. كيف نستخدم المعلومات</h2>
+<ul>
+  <li>تجهيز الطلبات وتوصيلها والتواصل معك بخصوصها.</li>
+  <li>إرسال إشعارات عن الطلبات والعروض.</li>
+  <li>تحسين أداء التطبيق.</li>
+</ul>
+
+<h2>3. مشاركة المعلومات</h2>
+<p>لا نبيع بياناتك ولا نؤجرها. نستخدم مزودي خدمات لتشغيل التطبيق:</p>
+<ul>
+  <li><strong>Supabase</strong>: لتخزين بيانات التطبيق.</li>
+  <li><strong>OneSignal / Firebase Cloud Messaging</strong>: لإرسال الإشعارات.</li>
+  <li><strong>WhatsApp</strong>: عند إرسال الطلب عبر واتساب، تُرسل تفاصيل الطلب من خلال تطبيق واتساب على جهازك.</li>
+</ul>
+
+<h2>4. حماية البيانات</h2>
+<p>نتخذ إجراءات معقولة لحماية بياناتك، لكن لا توجد وسيلة نقل أو تخزين إلكتروني آمنة بنسبة 100%.</p>
+
+<h2>5. حذف البيانات</h2>
+<p>يمكنك طلب حذف بياناتك في أي وقت بمراسلتنا على البريد الإلكتروني أدناه، وسنحذفها خلال مدة معقولة.</p>
+
+<h2>6. الأطفال</h2>
+<p>التطبيق غير موجه للأطفال دون 13 سنة، ولا نجمع بياناتهم عن علم.</p>
+
+<h2>7. التغييرات</h2>
+<p>قد نحدّث هذه السياسة من وقت لآخر، وسيظهر تاريخ آخر تحديث أعلى الصفحة.</p>
+
+<h2>8. التواصل</h2>
+<p>للاستفسارات أو طلبات حذف البيانات: <strong>YOUR_EMAIL@example.com</strong></p>
+
+<hr>
+
+<div class="en">
+<h1>Privacy Policy - Sweet & Sour App</h1>
+<p>Last updated: October 22, 2026</p>
+
+<p>"Sweet & Sour" is a frozen food shop in Cairo, Egypt. This policy explains what information the app collects and how it is used.</p>
+
+<h2>1. Information We Collect</h2>
+<p>We may collect information you enter yourself when placing an order, such as your name, phone number, delivery address, and order details. <strong>The app does not use GPS or collect your device location.</strong></p>
+
+<h2>2. How We Use Information</h2>
+<ul>
+  <li>To prepare and deliver orders and contact you about them.</li>
+  <li>To send notifications about orders and offers.</li>
+  <li>To improve the app.</li>
+</ul>
+
+<h2>3. Sharing</h2>
+<p>We do not sell or rent your data. We use service providers to run the app:</p>
+<ul>
+  <li><strong>Supabase</strong>: stores app data.</li>
+  <li><strong>OneSignal / Firebase Cloud Messaging</strong>: delivers push notifications.</li>
+  <li><strong>WhatsApp</strong>: when you send an order via WhatsApp, the order details are sent through the WhatsApp app on your device.</li>
+</ul>
+
+<h2>4. Data Security</h2>
+<p>We take reasonable measures to protect your data, but no method of electronic storage or transmission is 100% secure.</p>
+
+<h2>5. Data Deletion</h2>
+<p>You can request deletion of your data at any time by emailing us at the address below, and we will delete it within a reasonable time.</p>
+
+<h2>6. Children</h2>
+<p>The app is not directed to children under 13, and we do not knowingly collect their data.</p>
+
+<h2>7. Changes</h2>
+<p>We may update this policy from time to time. The last-updated date appears at the top.</p>
+
+<h2>8. Contact</h2>
+<p>Questions or deletion requests: <strong>YOUR_EMAIL@example.com</strong></p>
+</div>
+
+</body>
+</html>
